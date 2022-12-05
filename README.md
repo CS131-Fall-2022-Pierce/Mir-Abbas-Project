@@ -1,2 +1,5 @@
 # Mir-Abbas-Project
 project link: https://youtu.be/HykcKJkxR14
+Hello Everybody,
+
+My name is Mir Abbas, and my presentation is about  AI (Artificial Intelligence focused on GPT-3). It is the third-generation language prediction model in the GPT-n series (and the successor to GPT-2) created by OpenAI, a San Francisco-based artificial intelligence research laboratory. The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, GPT-3 is trained to generate realistic human text. GPT-3 has been used to create articles, poetry, stories, news reports, and dialogue using just a small amount of input text that can be used to produce large amounts of quality copy. It is also used in  Commercial Applications like to help businesses accomplish mundane, repetitive tasks. For example,  developers can build a tool that generates various layouts for the design required in different situations, and in Advertising Industries. In this project, I have mentioned the uses, advantages, and disadvantages of GPT-3.
